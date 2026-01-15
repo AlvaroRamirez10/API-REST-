@@ -1,0 +1,13 @@
+package com.grupoA.grupoA_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GrupoAApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GrupoAApiApplication.class, args);
+	}
+
+}
